@@ -130,7 +130,7 @@
 
 <ul>
   <li><b>LinkedIn:</b> <a href="https://linkedin.com/in/aaira-sheikh" target="_blank">linkedin.com/in/aaira-sheikh</a></li>
-  <li><b>Email:</b> aairasheikh66 [at] gmail [dot] com</li>
+  <li><b>Email:</b> aairasheikh66@gmail.com</li>
 </ul>
 
 <p align="center">
