@@ -117,11 +117,13 @@
 ## 📈 GitHub Snapshot
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AairaSheikh&show_icons=true&hide_title=true" />
+ 
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AairaSheikh&layout=compact" />
 </p>
 
 ---
+--- ## 🔥 GitHub Contributions 
+ <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AairaSheikh&hide_border=true" alt="GitHub contribution graph" /> </p> ---
 
 ## 📫 Contact
 
