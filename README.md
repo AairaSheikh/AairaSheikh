@@ -122,8 +122,9 @@
 </p>
 
 ---
---- ## 🔥 GitHub Contributions 
- <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AairaSheikh&hide_border=true" alt="GitHub contribution graph" /> </p> ---
+## 🔥 GitHub Contributions 
+ <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AairaSheikh&hide_border=true" alt="GitHub contribution graph" /> </p> 
+---
 
 ## 📫 Contact
 
