@@ -1,3 +1,5 @@
+
+
 <!-- Profile Header -->
 <h1 align="center">Hi, I’m Aaira Sheikh 👋</h1>
 
@@ -115,26 +117,8 @@
 ## 📈 GitHub Snapshot
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AairaSheikh&show_icons=true&hide_title=true&theme=github_dark&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AairaSheikh&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-## 🔥 GitHub Contributions
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=AairaSheikh&theme=github-dark-blue&hide_border=true"
-    alt="GitHub contributions and streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AairaSheikh&theme=react-dark&hide_border=true"
-    alt="GitHub contribution graph"
-  />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AairaSheikh&show_icons=true&hide_title=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AairaSheikh&layout=compact" />
 </p>
 
 ---
@@ -150,7 +134,18 @@
   - I enjoy building modern UI with React + TypeScript.
   - I like projects that feel like real products (clear pages, real flows, usable layouts).
   - I’m comfortable connecting frontends to APIs and structuring code cleanly.
-  - I follow responsive design and accessibility basics (semantic HTML, ARIA where needed).
-  - I care about performance and maintainable code structure.
 
 </details>
+
+- Responsive design and accessibility basics (semantic HTML, ARIA where needed)
+- Performance and maintainable code structure
+- Practical projects that feel like real products
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/aaira-sheikh  
+- Email: aairasheikh66@gmail.com
+add github contribution in readme.md after checking how much i contributed 
+after checking my github profile
