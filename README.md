@@ -1,5 +1,15 @@
-<!-- Profile Header -->
-<h1 align="center">Hi, I’m Aaira Sheikh 👋</h1>
+<!-- Animated Header -->
+<h1 align="center">
+  Hi, I’m Aaira Sheikh
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave" />
+</h1>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=900&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%2F+TypeScript+Frontend;FastAPI+%2F+Python+Backend;Clean+UI+%7C+Responsive+Design+%7C+Reliable+APIs"
+    alt="Typing SVG"
+  />
+</p>
 
 <p align="center">
   <b>Full-Stack Developer</b> • React / TypeScript • FastAPI / Python
@@ -18,7 +28,11 @@
   </a>
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AairaSheikh&style=for-the-badge" alt="profile views" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212750147-4ea3e7d5-3e2e-4d1a-a6d2-9a8a3d7ee2f0.gif" width="100%" alt="divider"/>
 
 ## ⭐ Featured Projects (Best Work)
 
@@ -26,12 +40,8 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🩺 Eloria Health</h3>
-      <p>
-        Modern, responsive healthcare website with strong visual design, smooth motion, and clean layout.
-      </p>
-      <p>
-        <b>Stack:</b> React, TypeScript, Vite, Tailwind, Framer Motion
-      </p>
+      <p>Modern, responsive healthcare website with smooth motion and a clean layout.</p>
+      <p><b>Stack:</b> React, TypeScript, Vite, Tailwind, Framer Motion</p>
       <p>
         <a href="https://eloriahealth.netlify.app/" target="_blank">🔗 Live Demo</a>
         &nbsp;•&nbsp;
@@ -40,12 +50,8 @@
     </td>
     <td width="50%" valign="top">
       <h3>🧘 Veloura</h3>
-      <p>
-        Boutique Pilates studio site with clean UI, interactive sections, and a smooth browsing experience.
-      </p>
-      <p>
-        <b>Stack:</b> HTML, CSS, JavaScript
-      </p>
+      <p>Boutique Pilates studio website with a clean UI and interactive sections.</p>
+      <p><b>Stack:</b> HTML, CSS, JavaScript</p>
       <p>
         <a href="https://veloura-pilates.netlify.app/" target="_blank">🔗 Live Demo</a>
         &nbsp;•&nbsp;
@@ -57,12 +63,8 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🏢 Nexus Innovations</h3>
-      <p>
-        Multi-page business website for digital solutions and services, built with a modern structure.
-      </p>
-      <p>
-        <b>Stack:</b> HTML, CSS, JavaScript, Vite
-      </p>
+      <p>Multi-page business website for digital solutions and services.</p>
+      <p><b>Stack:</b> HTML, CSS, JavaScript, Vite</p>
       <p>
         <a href="https://nexus-innovations-pk.netlify.app/" target="_blank">🔗 Live Demo</a>
         &nbsp;•&nbsp;
@@ -70,23 +72,22 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>✅ What you’ll see in my work</h3>
+      <h3>✨ What you’ll see in my work</h3>
       <ul>
         <li>Responsive layouts and clean UI</li>
         <li>Component-driven frontend structure</li>
-        <li>Practical product-style pages (services, dashboards, e-commerce style)</li>
-        <li>Focus on maintainable, readable code</li>
+        <li>Product-style pages (services, landing pages, dashboards)</li>
+        <li>Readable, maintainable code</li>
       </ul>
     </td>
   </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212750147-4ea3e7d5-3e2e-4d1a-a6d2-9a8a3d7ee2f0.gif" width="100%" alt="divider"/>
 
 ## 🧰 Tech Stack
 
 <p>
-  <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-111?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript" />
   <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript" />
@@ -97,7 +98,6 @@
 </p>
 
 <p>
-  <!-- Backend -->
   <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi" />
   <img src="https://img.shields.io/badge/Django-111?style=for-the-badge&logo=django" />
@@ -105,43 +105,24 @@
 </p>
 
 <p>
-  <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212750147-4ea3e7d5-3e2e-4d1a-a6d2-9a8a3d7ee2f0.gif" width="100%" alt="divider"/>
 
 ## 📈 GitHub Snapshot
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AairaSheikh&show_icons=true&hide_title=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AairaSheikh&layout=compact" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AairaSheikh&show_icons=true&hide_title=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AairaSheikh&layout=compact" />
 </p>
 
----
+<!-- Optional animated contribution snake (see setup below) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AairaSheikh/AairaSheikh/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ## 📫 Contact
-
 - **LinkedIn:** https://www.linkedin.com/in/aaira-sheikh  
-- **Email:** aairasheikh66@gmail.com  
-
-<details>
-  <summary><b>✨ Quick intro (click)</b></summary>
-
-  - I enjoy building modern UI with React + TypeScript.
-  - I like projects that feel like real products (clear pages, real flows, usable layouts).
-  - I’m comfortable connecting frontends to APIs and structuring code cleanly.
-
-</details>
-
-- Responsive design and accessibility basics (semantic HTML, ARIA where needed)
-- Performance and maintainable code structure
-- Practical projects that feel like real products
-
----
-
-## 📫 Contact
-
-- LinkedIn: https://www.linkedin.com/in/aaira-sheikh  
-- Email: aairasheikh66@gmail.com
+- **Email:** aairasheikh66@gmail.com
