@@ -22,7 +22,7 @@
 
 <br/>
 
-## ⭐ Featured Projects (Best Work)
+## ⭐ Featured Projects
 
 <table>
   <tr>
