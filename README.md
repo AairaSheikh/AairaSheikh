@@ -1,3 +1,5 @@
+
+
 <!-- Profile Header -->
 <h1 align="center">Hi, I’m Aaira Sheikh 👋</h1>
 
@@ -134,3 +136,14 @@
   - I’m comfortable connecting frontends to APIs and structuring code cleanly.
 
 </details>
+
+- Responsive design and accessibility basics (semantic HTML, ARIA where needed)
+- Performance and maintainable code structure
+- Practical projects that feel like real products
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/aaira-sheikh  
+- Email: aairasheikh66@gmail.com
