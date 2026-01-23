@@ -145,5 +145,3 @@
 
 - LinkedIn: https://www.linkedin.com/in/aaira-sheikh  
 - Email: aairasheikh66@gmail.com
-add github contribution in readme.md after checking how much i contributed 
-after checking my github profile
