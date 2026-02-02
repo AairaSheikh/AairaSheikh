@@ -22,66 +22,6 @@
 
 <br/>
 
-## ⭐ Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🩺 Eloria Health</h3>
-      <p>
-        Modern, responsive healthcare website with strong visual design, smooth motion, and clean layout.
-      </p>
-      <p>
-        <b>Stack:</b> React, TypeScript, Vite, Tailwind, Framer Motion
-      </p>
-      <p>
-        <a href="https://eloriahealth.netlify.app/" target="_blank">🔗 Live Demo</a>
-        &nbsp;•&nbsp;
-        <a href="https://github.com/AairaSheikh/Eloria-Health" target="_blank">📦 Repo</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧘 Veloura</h3>
-      <p>
-        Boutique Pilates studio site with clean UI, interactive sections, and a smooth browsing experience.
-      </p>
-      <p>
-        <b>Stack:</b> HTML, CSS, JavaScript
-      </p>
-      <p>
-        <a href="https://veloura-pilates.netlify.app/" target="_blank">🔗 Live Demo</a>
-        &nbsp;•&nbsp;
-        <a href="https://github.com/AairaSheikh/Veloura" target="_blank">📦 Repo</a>
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏢 Nexus Innovations</h3>
-      <p>
-        Multi-page business website for digital solutions and services, built with a modern structure.
-      </p>
-      <p>
-        <b>Stack:</b> HTML, CSS, JavaScript, Vite
-      </p>
-      <p>
-        <a href="https://nexus-innovations-pk.netlify.app/" target="_blank">🔗 Live Demo</a>
-        &nbsp;•&nbsp;
-        <a href="https://github.com/AairaSheikh/Nexus_Innovations" target="_blank">📦 Repo</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>✅ What you’ll see in my work</h3>
-      <ul>
-        <li>Responsive layouts and clean UI</li>
-        <li>Component-driven frontend structure</li>
-        <li>Practical product-style pages (services, dashboards, e-commerce style)</li>
-        <li>Focus on maintainable, readable code</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -114,12 +54,6 @@
 
 ---
 
-## 📈 GitHub Snapshot
-
-<p align="center">
- 
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AairaSheikh&layout=compact" />
-</p>
 
 ## 📫 Contact
 
@@ -127,14 +61,7 @@
 - **Email:** aairasheikh66@gmail.com  
 
 <details>
-  <summary><b>✨ Quick intro (click)</b></summary>
-
-  - I enjoy building modern UI with React + TypeScript.
-  - I like projects that feel like real products (clear pages, real flows, usable layouts).
-  - I’m comfortable connecting frontends to APIs and structuring code cleanly.
-
-</details>
-
+ 
 - Responsive design and accessibility basics (semantic HTML, ARIA where needed)
 - Performance and maintainable code structure
 - Practical projects that feel like real products
