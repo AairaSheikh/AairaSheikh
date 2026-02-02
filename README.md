@@ -24,12 +24,7 @@
   <img src="https://komarev.com/ghpvc/?username=AairaSheikh&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=AairaSheikh&theme=onedark&no-frame=true&row=1&column=7"
-    alt="trophies"
-  />
-</p>
+
 
 <hr/>
 
@@ -70,30 +65,7 @@ I care about **performance**, **accessibility**, and **maintainable code**.
 
 <hr/>
 
-## 📊 GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AairaSheikh&show_icons=true&rank_icon=github&hide_border=true"
-    alt="github stats"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AairaSheikh&layout=compact&hide_border=true"
-    alt="top languages"
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=AairaSheikh&hide_border=true"
-    alt="streak stats"
-    height="190"
-  />
-</p>
-
-<hr/>
 
 ## 📫 Contact
 
