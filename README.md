@@ -1,14 +1,17 @@
-<!-- Profile README for GitHub: Aaira Sheikh -->
+<!-- Profile README: AairaSheikh -->
 
-<h1 align="center">Aaira Sheikh</h1>
 <p align="center">
-  <b>Full-Stack Developer</b> • React / TypeScript • FastAPI / Python
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Aaira%20Sheikh&fontAlign=50&fontAlignY=40&color=gradient"
+    alt="header"
+  />
 </p>
 
 <p align="center">
-  I build clean, responsive web apps with polished UI, and reliable APIs.
-  <br/>
-  Focused on performance, accessibility, and maintainable code.
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=700&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;React+%2F+TypeScript;FastAPI+%2F+Python;Clean+UI+%7C+Reliable+APIs+%7C+Maintainable+Code"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
@@ -18,67 +21,77 @@
   <a href="mailto:aairasheikh66@gmail.com">
     <img src="https://img.shields.io/badge/Email-aairasheikh66%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=AairaSheikh&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AairaSheikh&label=Profile%20views&color=0A66C2&style=flat" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=AairaSheikh&theme=onedark&no-frame=true&row=1&column=7"
+    alt="trophies"
+  />
 </p>
 
 <hr/>
 
-## ✨ About Me
+## 👩‍💻 About Me
 
-- Building modern frontends with **React, TypeScript, Vite, and Tailwind CSS**
-- Creating scalable backends with **FastAPI, Python**, and **Django**
-- Strong focus on **clean UI**, **API quality**, and **developer-friendly code**
-- Comfortable with **Git/GitHub workflows**, code reviews, and collaboration
+I build clean, responsive web apps with polished UI and reliable APIs.  
+I care about **performance**, **accessibility**, and **maintainable code**.
+
+- Frontend: **React**, **TypeScript**, **Vite**, **Tailwind CSS**
+- Backend: **FastAPI**, **Python**, **Django**
+- Workflow: **Git/GitHub**, clean structure, and collaboration
 
 <hr/>
 
 ## 🧰 Tech Stack
 
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-111?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Vite-111?style=for-the-badge&logo=vite" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-111?style=for-the-badge&logo=tailwindcss" />
-  <img src="https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css&theme=dark" />
 </p>
 
-### Backend
-<p>
-  <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/Django-111?style=for-the-badge&logo=django" />
-  <img src="https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs&theme=dark" />
 </p>
 
-### Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
 </p>
 
 <hr/>
 
-## ✅ What I Care About
+## ✅ What I Focus On
 
-- **Responsive UI** that feels great on every screen
-- **Accessibility basics** (semantic HTML, ARIA when needed)
-- **Performance** (fast load time, clean rendering)
-- **Maintainability** (structure, naming, reusable components)
-- **APIs that are reliable** (clear validation, clean docs, predictable errors)
+- **Responsive UI** that feels smooth on every device  
+- **Accessibility** (semantic HTML, ARIA when needed)  
+- **Performance** (fast load time, clean rendering)  
+- **Maintainability** (structure, naming, reusable components)  
+- **API quality** (validation, predictable errors, clean docs)
 
 <hr/>
 
-## 📌 Currently Improving
+## 📊 GitHub Activity
 
-- Advanced React patterns (state + architecture)
-- API design best practices (validation, pagination, auth flows)
-- Testing mindset (unit + integration basics)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AairaSheikh&show_icons=true&rank_icon=github&hide_border=true"
+    alt="github stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AairaSheikh&layout=compact&hide_border=true"
+    alt="top languages"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=AairaSheikh&hide_border=true"
+    alt="streak stats"
+    height="190"
+  />
+</p>
 
 <hr/>
 
@@ -87,6 +100,9 @@
 - **LinkedIn:** https://www.linkedin.com/in/aaira-sheikh  
 - **Email:** aairasheikh66@gmail.com  
 
-<hr/>
-
-
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient"
+    alt="footer"
+  />
+</p>
