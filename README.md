@@ -102,7 +102,7 @@
 
 ---
 
-## 🧰 Tech Stack (Neon)
+## 🧰 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css&theme=dark" />
