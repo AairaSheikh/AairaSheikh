@@ -1,4 +1,4 @@
-<!-- Profile README: AairaSheikh -->
+<!-- Profile README: AairaSheikh  -->
 
 <p align="center">
   <img
@@ -9,39 +9,78 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=700&center=true&vCenter=true&width=900&color=8A2BE2&lines=Full-Stack+Developer;React+%2F+TypeScript;FastAPI+%2F+Python;Clean+UI+%7C+Reliable+APIs+%7C+Maintainable+Code"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=700&center=true&vCenter=true&width=950&color=8A2BE2&lines=Full-Stack+Developer;React+%2F+TypeScript;FastAPI+%2F+Python;Polished+UI+%7C+Reliable+APIs+%7C+Clean+Code"
     alt="Typing SVG"
   />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aaira-sheikh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Aaira%20Sheikh-6F2DBD?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:aairasheikh66@gmail.com">
-    <img src="https://img.shields.io/badge/Email-aairasheikh66%40gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <b>Full-Stack Developer</b> • React / TypeScript • FastAPI / Python
 </p>
 
 <p align="center">
+  I build clean, responsive web apps with polished UI and reliable APIs.
+  <br/>
+  Focused on performance, accessibility, and maintainable code.
+</p>
+
+<br/>
+
+<!-- Purple Divider -->
+<p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=AairaSheikh&theme=discord&no-frame=true&row=1&column=7"
-    alt="trophies"
+    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8A2BE2"
+    alt="divider"
   />
 </p>
 
-<hr/>
+<!-- Contact Card -->
+<div align="center">
+
+### 💌 Let’s connect
+
+<a href="https://www.linkedin.com/in/aaira-sheikh" target="_blank">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+<a href="mailto:aairasheikh66@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-Say%20Hello-6F2DBD?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/aaira-sheikh" target="_blank">
+  <img
+    src="https://img.shields.io/badge/aaira--sheikh-Profile-111?style=for-the-badge&labelColor=8A2BE2"
+    alt="LinkedIn Profile"
+  />
+</a>
+<a href="mailto:aairasheikh66@gmail.com">
+  <img
+    src="https://img.shields.io/badge/aairasheikh66%40gmail.com-Email-111?style=for-the-badge&labelColor=6F2DBD"
+    alt="Email Address"
+  />
+</a>
+
+</div>
+
+<br/>
+
+---
 
 ## 👩‍💻 About Me
 
-I build clean, responsive web apps with polished UI and reliable APIs.  
-I care about **performance**, **accessibility**, and **maintainable code**.
+- Building modern frontends with **React**, **TypeScript**, **Vite**, and **Tailwind CSS**
+- Creating scalable backends with **FastAPI**, **Python**, and **Django**
+- Strong focus on **clean UI**, **accessibility**, and **performance**
+- Comfortable with **Git/GitHub workflows** and team collaboration
 
-- Frontend: **React**, **TypeScript**, **Vite**, **Tailwind CSS**
-- Backend: **FastAPI**, **Python**, **Django**
-- Workflow: **Git/GitHub**, clean structure, and collaboration
-
-<hr/>
+---
 
 ## 🧰 Tech Stack
 
@@ -57,22 +96,19 @@ I care about **performance**, **accessibility**, and **maintainable code**.
   <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
 </p>
 
-<hr/>
+---
 
 ## ✅ What I Focus On
 
-- **Responsive UI** that feels smooth on every device  
-- **Accessibility** (semantic HTML, ARIA when needed)  
-- **Performance** (fast load time, clean rendering)  
-- **Maintainability** (structure, naming, reusable components)  
-- **API quality** (validation, predictable errors, clean docs)
+<p align="center">
+  <img src="https://img.shields.io/badge/Responsive%20UI-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Accessibility-6F2DBD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Performance-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-6F2DBD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Reliable%20APIs-8A2BE2?style=for-the-badge" />
+</p>
 
-<hr/>
-
-## 📫 Contact
-
-- **LinkedIn:** https://www.linkedin.com/in/aaira-sheikh  
-- **Email:** aairasheikh66@gmail.com  
+---
 
 <p align="center">
   <img
