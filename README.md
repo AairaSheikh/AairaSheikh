@@ -2,29 +2,33 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Aaira%20Sheikh&fontAlign=50&fontAlignY=40&color=gradient"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Aaira%20Sheikh&fontAlign=50&fontAlignY=40&color=8A2BE2"
     alt="header"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=700&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;React+%2F+TypeScript;FastAPI+%2F+Python;Clean+UI+%7C+Reliable+APIs+%7C+Maintainable+Code"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=700&center=true&vCenter=true&width=900&color=8A2BE2&lines=Full-Stack+Developer;React+%2F+TypeScript;FastAPI+%2F+Python;Clean+UI+%7C+Reliable+APIs+%7C+Maintainable+Code"
     alt="Typing SVG"
   />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aaira-sheikh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Aaira%20Sheikh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Aaira%20Sheikh-6F2DBD?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:aairasheikh66@gmail.com">
-    <img src="https://img.shields.io/badge/Email-aairasheikh66%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-aairasheikh66%40gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=AairaSheikh&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
 
-
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=AairaSheikh&theme=discord&no-frame=true&row=1&column=7"
+    alt="trophies"
+  />
+</p>
 
 <hr/>
 
@@ -65,8 +69,6 @@ I care about **performance**, **accessibility**, and **maintainable code**.
 
 <hr/>
 
-
-
 ## 📫 Contact
 
 - **LinkedIn:** https://www.linkedin.com/in/aaira-sheikh  
@@ -74,7 +76,7 @@ I care about **performance**, **accessibility**, and **maintainable code**.
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient"
+    src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=8A2BE2"
     alt="footer"
   />
 </p>
