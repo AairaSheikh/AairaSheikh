@@ -32,63 +32,6 @@
 
 <hr/>
 
-<!-- ===== FEATURED PROJECTS ===== -->
-<h2>🚀 Featured Projects</h2>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛍️ Aivora Brand Kit</h3>
-      <p>Multi-page e-commerce-style site (shop, products, cart, journal). Built with <b>React + TypeScript + Vite</b>.</p>
-      <p>
-        <a href="https://github.com/AairaSheikh/Aivora-Brand-Kit" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-View-111?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://aivorapk.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-Demo-0E9F6E?style=for-the-badge&logo=netlify&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏢 Nexus Innovations</h3>
-      <p>Responsive multi-page business website for software and digital solutions.</p>
-      <p>
-        <a href="https://github.com/AairaSheikh/Nexus_Innovations" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-View-111?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://nexus-innovations-pk.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-Demo-0E9F6E?style=for-the-badge&logo=netlify&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏥 Aaira Care Clinic</h3>
-      <p>Clean, responsive healthcare website focused on a user-friendly flow.</p>
-      <p>
-        <a href="https://github.com/AairaSheikh/Aaira-Care" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-View-111?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://aaira-care.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-Demo-0E9F6E?style=for-the-badge&logo=netlify&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧩 More projects</h3>
-      <p>See more of my work, experiments, and components on my GitHub profile.</p>
-      <p>
-        <a href="https://github.com/AairaSheikh?tab=repositories" target="_blank">
-          <img src="https://img.shields.io/badge/Browse-Repositories-111?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<hr/>
 
 <!-- ===== STACK ===== -->
 <h2>🧰 Tech Stack</h2>
@@ -168,68 +111,7 @@
 
 <br/>
 
-## ⭐ Featured Projects (Best Work)
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🩺 Eloria Health</h3>
-      <p>
-        Modern, responsive healthcare website with strong visual design, smooth motion, and clean layout.
-      </p>
-      <p>
-        <b>Stack:</b> React, TypeScript, Vite, Tailwind, Framer Motion
-      </p>
-      <p>
-        <a href="https://eloriahealth.netlify.app/" target="_blank">🔗 Live Demo</a>
-        &nbsp;•&nbsp;
-        <a href="https://github.com/AairaSheikh/Eloria-Health" target="_blank">📦 Repo</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧘 Veloura</h3>
-      <p>
-        Boutique Pilates studio site with clean UI, interactive sections, and a smooth browsing experience.
-      </p>
-      <p>
-        <b>Stack:</b> HTML, CSS, JavaScript
-      </p>
-      <p>
-        <a href="https://veloura-pilates.netlify.app/" target="_blank">🔗 Live Demo</a>
-        &nbsp;•&nbsp;
-        <a href="https://github.com/AairaSheikh/Veloura" target="_blank">📦 Repo</a>
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏢 Nexus Innovations</h3>
-      <p>
-        Multi-page business website for digital solutions and services, built with a modern structure.
-      </p>
-      <p>
-        <b>Stack:</b> HTML, CSS, JavaScript, Vite
-      </p>
-      <p>
-        <a href="https://nexus-innovations-pk.netlify.app/" target="_blank">🔗 Live Demo</a>
-        &nbsp;•&nbsp;
-        <a href="https://github.com/AairaSheikh/Nexus_Innovations" target="_blank">📦 Repo</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>✅ What you’ll see in my work</h3>
-      <ul>
-        <li>Responsive layouts and clean UI</li>
-        <li>Component-driven frontend structure</li>
-        <li>Practical product-style pages (services, dashboards, e-commerce style)</li>
-        <li>Focus on maintainable, readable code</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
 
 ## 🧰 Tech Stack
 
