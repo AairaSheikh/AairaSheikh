@@ -1,124 +1,87 @@
-<!-- =====================  HERO  ===================== -->
+<!-- ===== HERO ===== -->
+<h1 align="center">Hi 👋, I'm Aaira Sheikh</h1>
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=210&text=Aaira%20Sheikh&fontSize=60&fontAlign=50&fontAlignY=55&color=0:0F172A,100:7C3AED"
-    alt="Aaira Sheikh header"
-  />
+  <b>Full-Stack Developer</b> • React / TypeScript • FastAPI / Python<br/>
+  Building clean UI, reliable backends, and practical web products.
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2200&pause=650&center=true&vCenter=true&width=900&color=22C55E&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+clean+UIs+and+reliable+APIs"
-    alt="typing"
-  />
+  <a href="https://linkedin.com/in/aaira-sheikh" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aaira%20Sheikh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/AairaSheikh" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-AairaSheikh-111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-  <img alt="React" src="https://img.shields.io/badge/React-0B1220?style=for-the-badge&logo=react&logoColor=22C55E">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-0B1220?style=for-the-badge&logo=nextdotjs&logoColor=7C3AED">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0B1220?style=for-the-badge&logo=nodedotjs&logoColor=22C55E">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0B1220?style=for-the-badge&logo=typescript&logoColor=38BDF8">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=2500&pause=700&center=true&vCenter=true&width=850&lines=Full-Stack+Developer+%7C+React+%2B+TypeScript+%2B+FastAPI;Clean+UI+%7C+Reliable+Backends+%7C+Modern+Tooling;Shipping+real+projects+with+polished+UX" alt="Typing SVG" />
 </p>
 
-<br/>
+<hr/>
 
-<!-- =====================  INTRO CARD  ===================== -->
+<!-- ===== ABOUT ===== -->
+<h2>✨ About</h2>
 
-<div align="center">
+<ul>
+  <li>💻 I build modern web apps with <b>React + TypeScript</b>, and APIs with <b>FastAPI/Python</b>.</li>
+  <li>🎯 Focus: clean UI, reusable components, performance, and readable backend code.</li>
+  <li>🧩 I enjoy building product-style apps (e-commerce, business sites, and dashboards).</li>
+</ul>
 
-### A little about me
+<hr/>
 
-I build web apps that are **fast**, **responsive**, and **easy to maintain**.  
-I enjoy turning designs into polished interfaces, and backing them with solid server logic.
 
-</div>
 
-<br/>
+<!-- ===== STACK ===== -->
+<h2>🧰 Tech Stack</h2>
 
-<!-- =====================  SKILLS STRIP  ===================== -->
+<p>
+  <b>Frontend:</b> React, TypeScript, JavaScript, Vite, Tailwind, HTML, CSS<br/>
+  <b>Backend:</b> Python, FastAPI, Django, Node.js<br/>
+  <b>Tools:</b> Git
+</p>
 
-<div align="center">
+<p align="left">
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+</p>
 
-## Tech I use
+<hr/>
 
-<img
-  src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,tailwind,html,css,mongodb,postgres,prisma,git,github,vercel,figma&perline=8"
-  alt="skill icons"
-/>
+<!-- ===== CONTACT ===== -->
+<h2>📫 Contact</h2>
 
-</div>
-
-<br/>
-
-<!-- =====================  ANIMATED SECTIONS  ===================== -->
-
-<details open>
-  <summary><b>✨ What I’m focused on</b></summary>
-  <br/>
-
-  - Crafting modern **React/Next.js** UIs (components, accessibility, responsiveness)
-  - Building **REST APIs** with Node.js and Express
-  - Working with **databases** (MongoDB, PostgreSQL) and clean schemas
-  - Improving **performance** (rendering, loading, and UI smoothness)
-</details>
-
-<details>
-  <summary><b>🧩 Things I care about</b></summary>
-  <br/>
-
-  - Clean, readable code
-  - Consistent UI spacing and typography
-  - Reusable components and patterns
-  - Simple solutions over complicated ones
-</details>
-
-<br/>
-
-<!-- =====================  STATS (NO VIEWS, NO SNAKE)  ===================== -->
-
-<div align="center">
-
-## GitHub activity
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com?user=AairaSheikh&theme=tokyonight&hide_border=true&border_radius=14"
-  alt="streak"
-/>
-
-<br/><br/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=AairaSheikh&show_icons=true&hide_title=true&hide_border=true&border_radius=14&bg_color=0B1220&text_color=E5E7EB&icon_color=22C55E"
-  alt="stats"
-/>
-
-</div>
-
-<br/>
-
-<!-- =====================  CONNECT  ===================== -->
-
-<div align="center">
-
-## Connect
-
-<a href="https://github.com/AairaSheikh">
-  <img
-    src="https://img.shields.io/badge/GitHub-AairaSheikh-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF"
-    alt="github link"
-  />
-</a>
-
-</div>
-
-<br/>
-
-<!-- =====================  FOOTER  ===================== -->
+<ul>
+  <li><b>LinkedIn:</b> <a href="https://linkedin.com/in/aaira-sheikh" target="_blank">linkedin.com/in/aaira-sheikh</a></li>
+  <li><b>Email:</b> aairasheikh66@gmail.com</li>
+</ul>
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=120&section=footer&color=0:7C3AED,100:22C55E"
-    alt="footer"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" />
 </p>
+
+
+
+
+
