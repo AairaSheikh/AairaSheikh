@@ -1,114 +1,124 @@
-<!-- =========================  HEADER  ========================= -->
+<!-- =====================  HERO  ===================== -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Aaira%20Sheikh&fontAlign=50&fontAlignY=40&color=0:8A2BE2,100:FF4FD8"
-    alt="header"
+    src="https://capsule-render.vercel.app/api?type=rect&height=210&text=Aaira%20Sheikh&fontSize=60&fontAlign=50&fontAlignY=55&color=0:0F172A,100:7C3AED"
+    alt="Aaira Sheikh header"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=700&center=true&vCenter=true&width=900&color=8A2BE2&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Next.js;Clean+UI.+Fast+Apps.+Solid+APIs."
-    alt="typing intro"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2200&pause=650&center=true&vCenter=true&width=900&color=22C55E&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+clean+UIs+and+reliable+APIs"
+    alt="typing"
   />
 </p>
 
 <p align="center">
-  <a href="https://github.com/AairaSheikh">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-AairaSheikh-8A2BE2?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <img alt="Focus" src="https://img.shields.io/badge/Focus-Full--Stack-FF4FD8?style=for-the-badge&logo=react&logoColor=white">
-  <img alt="Work" src="https://img.shields.io/badge/Loves-Building%20UI%20%26%20APIs-6E56CF?style=for-the-badge&logo=vercel&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-0B1220?style=for-the-badge&logo=react&logoColor=22C55E">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-0B1220?style=for-the-badge&logo=nextdotjs&logoColor=7C3AED">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0B1220?style=for-the-badge&logo=nodedotjs&logoColor=22C55E">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0B1220?style=for-the-badge&logo=typescript&logoColor=38BDF8">
 </p>
 
 <br/>
 
-<!-- =========================  ABOUT  ========================= -->
+<!-- =====================  INTRO CARD  ===================== -->
 
 <div align="center">
 
-### Hi, I’m Aaira
+### A little about me
 
-I build **modern web apps** with clean UI, smooth UX, and reliable backend logic.  
-I like shipping features that feel fast, look sharp, and scale nicely.
+I build web apps that are **fast**, **responsive**, and **easy to maintain**.  
+I enjoy turning designs into polished interfaces, and backing them with solid server logic.
 
 </div>
 
 <br/>
 
-<!-- =========================  TOOLBOX  ========================= -->
+<!-- =====================  SKILLS STRIP  ===================== -->
 
 <div align="center">
 
-## Toolbox
+## Tech I use
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,html,css,tailwind,mongodb,postgres,prisma,git,github,vercel,figma&perline=8" alt="skills" />
-</p>
+<img
+  src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,tailwind,html,css,mongodb,postgres,prisma,git,github,vercel,figma&perline=8"
+  alt="skill icons"
+/>
 
 </div>
 
 <br/>
 
-<!-- =========================  HIGHLIGHTS  ========================= -->
+<!-- =====================  ANIMATED SECTIONS  ===================== -->
 
-<div align="center">
+<details open>
+  <summary><b>✨ What I’m focused on</b></summary>
+  <br/>
 
-## What I work on
+  - Crafting modern **React/Next.js** UIs (components, accessibility, responsiveness)
+  - Building **REST APIs** with Node.js and Express
+  - Working with **databases** (MongoDB, PostgreSQL) and clean schemas
+  - Improving **performance** (rendering, loading, and UI smoothness)
+</details>
 
-</div>
+<details>
+  <summary><b>🧩 Things I care about</b></summary>
+  <br/>
 
-- **Front-end:** React, Next.js, responsive UI, component systems  
-- **Back-end:** Node.js, Express, REST APIs, authentication  
-- **Data:** MongoDB, PostgreSQL, Prisma, schema design  
-- **Quality:** clean code, reusable patterns, performance-first UI  
+  - Clean, readable code
+  - Consistent UI spacing and typography
+  - Reusable components and patterns
+  - Simple solutions over complicated ones
+</details>
 
 <br/>
 
-<!-- =========================  STATS (NO VIEWS, NO SNAKE)  ========================= -->
+<!-- =====================  STATS (NO VIEWS, NO SNAKE)  ===================== -->
 
 <div align="center">
 
-## GitHub snapshot
+## GitHub activity
 
-<p>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com?user=AairaSheikh&theme=tokyonight&hide_border=true&border_radius=14"
+  alt="streak"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=AairaSheikh&show_icons=true&hide_title=true&hide_border=true&border_radius=14&bg_color=0B1220&text_color=E5E7EB&icon_color=22C55E"
+  alt="stats"
+/>
+
+</div>
+
+<br/>
+
+<!-- =====================  CONNECT  ===================== -->
+
+<div align="center">
+
+## Connect
+
+<a href="https://github.com/AairaSheikh">
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=AairaSheikh&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true&count_private=true&border_radius=14&bg_color=0D1117&text_color=E6EDF3&icon_color=FF4FD8&ring_color=8A2BE2&hide_border=true"
-    alt="stats"
+    src="https://img.shields.io/badge/GitHub-AairaSheikh-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF"
+    alt="github link"
   />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AairaSheikh&layout=compact&border_radius=14&bg_color=0D1117&text_color=E6EDF3&title_color=8A2BE2&hide_border=true"
-    alt="top languages"
-  />
-</p>
+</a>
 
 </div>
 
 <br/>
 
-<!-- =========================  CONTACT  ========================= -->
-
-<div align="center">
-
-## Let’s connect
-
-<p>
-  <!-- Add your real links below (optional). Keep/remove anything you don't want. -->
-  <a href="https://github.com/AairaSheikh">
-    <img src="https://img.shields.io/badge/GitHub-AairaSheikh-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-  </a>
-</p>
-
-</div>
-
-<!-- =========================  FOOTER  ========================= -->
+<!-- =====================  FOOTER  ===================== -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:8A2BE2,100:FF4FD8"
+    src="https://capsule-render.vercel.app/api?type=rect&height=120&section=footer&color=0:7C3AED,100:22C55E"
     alt="footer"
   />
 </p>
