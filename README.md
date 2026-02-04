@@ -77,10 +77,6 @@
   <li><b>Email:</b> aairasheikh66@gmail.com</li>
 </ul>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" />
-</p>
-
 
 
 
