@@ -1,4 +1,4 @@
-<!-- Profile README: AairaSheikh (Purple Gradient, Clean, No Projects) -->
+<!-- =========================  HEADER  ========================= -->
 
 <p align="center">
   <img
@@ -9,87 +9,106 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=700&center=true&vCenter=true&width=980&color=8A2BE2&lines=Full-Stack+Developer;React+%2F+TypeScript;FastAPI+%2F+Python;Polished+UI+%7C+Reliable+APIs+%7C+Clean+Code"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=700&center=true&vCenter=true&width=900&color=8A2BE2&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Next.js;Clean+UI.+Fast+Apps.+Solid+APIs."
+    alt="typing intro"
   />
 </p>
 
 <p align="center">
-  <b>Full-Stack Developer</b> • React / TypeScript • FastAPI / Python
-</p>
-
-<p align="center">
-  I build clean, responsive web apps with polished UI and reliable APIs.
-  <br/>
-  Focused on performance, accessibility, and maintainable code.
+  <a href="https://github.com/AairaSheikh">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-AairaSheikh-8A2BE2?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <img alt="Focus" src="https://img.shields.io/badge/Focus-Full--Stack-FF4FD8?style=for-the-badge&logo=react&logoColor=white">
+  <img alt="Work" src="https://img.shields.io/badge/Loves-Building%20UI%20%26%20APIs-6E56CF?style=for-the-badge&logo=vercel&logoColor=white">
 </p>
 
 <br/>
 
-<p align="center">
+<!-- =========================  ABOUT  ========================= -->
+
+<div align="center">
+
+### Hi, I’m Aaira
+
+I build **modern web apps** with clean UI, smooth UX, and reliable backend logic.  
+I like shipping features that feel fast, look sharp, and scale nicely.
+
+</div>
+
+<br/>
+
+<!-- =========================  TOOLBOX  ========================= -->
+
+<div align="center">
+
+## Toolbox
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,html,css,tailwind,mongodb,postgres,prisma,git,github,vercel,figma&perline=8" alt="skills" />
+</p>
+
+</div>
+
+<br/>
+
+<!-- =========================  HIGHLIGHTS  ========================= -->
+
+<div align="center">
+
+## What I work on
+
+</div>
+
+- **Front-end:** React, Next.js, responsive UI, component systems  
+- **Back-end:** Node.js, Express, REST APIs, authentication  
+- **Data:** MongoDB, PostgreSQL, Prisma, schema design  
+- **Quality:** clean code, reusable patterns, performance-first UI  
+
+<br/>
+
+<!-- =========================  STATS (NO VIEWS, NO SNAKE)  ========================= -->
+
+<div align="center">
+
+## GitHub snapshot
+
+<p>
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8A2BE2,100:FF4FD8"
-    alt="divider"
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=AairaSheikh&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true&count_private=true&border_radius=14&bg_color=0D1117&text_color=E6EDF3&icon_color=FF4FD8&ring_color=8A2BE2&hide_border=true"
+    alt="stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AairaSheikh&layout=compact&border_radius=14&bg_color=0D1117&text_color=E6EDF3&title_color=8A2BE2&hide_border=true"
+    alt="top languages"
   />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aaira-sheikh" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Aaira%20Sheikh-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+</div>
+
+<br/>
+
+<!-- =========================  CONTACT  ========================= -->
+
+<div align="center">
+
+## Let’s connect
+
+<p>
+  <!-- Add your real links below (optional). Keep/remove anything you don't want. -->
+  <a href="https://github.com/AairaSheikh">
+    <img src="https://img.shields.io/badge/GitHub-AairaSheikh-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
-  <a href="mailto:aairasheikh66@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-aairasheikh66%40gmail.com-FF4FD8?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
 </p>
 
----
+</div>
 
-## 👩‍💻 About Me
-
-- Building modern frontends with **React**, **TypeScript**, **Vite**, and **Tailwind CSS**
-- Creating scalable backends with **FastAPI**, **Python**, and **Django**
-- Strong focus on **clean UI**, **accessibility**, and **performance**
-- Comfortable with **Git/GitHub workflows** and team collaboration
-
----
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
-</p>
-
----
-
-## ✅ What I Focus On
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Responsive%20UI-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Accessibility-FF4FD8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Performance-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture-FF4FD8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Reliable%20APIs-8A2BE2?style=for-the-badge" />
-</p>
-
----
+<!-- =========================  FOOTER  ========================= -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:8A2BE2,100:FF4FD8"
+    src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:8A2BE2,100:FF4FD8"
     alt="footer"
   />
 </p>
