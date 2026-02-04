@@ -54,9 +54,3 @@
 
 - **LinkedIn:** https://www.linkedin.com/in/aaira-sheikh  
 - **Email:** aairasheikh66@gmail.com  
-
-## 📫 Contact
-
-- LinkedIn: https://www.linkedin.com/in/aaira-sheikh  
-- Email: aairasheikh66@gmail.com
-
