@@ -236,11 +236,7 @@ A sleek, modern **developer portfolio website** showcasing projects, skills, and
 
 <div align="center">
 
-<br/>
 
-> *"I don't just write code — I craft experiences that bridge humans and technology."*
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaira-sheikh)
 &nbsp;&nbsp;
