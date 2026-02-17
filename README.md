@@ -173,13 +173,7 @@ A sleek, modern **developer portfolio website** showcasing projects, skills, and
 
 ## 📊 &nbsp; GitHub Stats
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AairaSheikh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=ec4899&text_color=e2e8f0&ring_color=f97316&border_radius=16&include_all_commits=true&count_private=true" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AairaSheikh&layout=compact&hide_border=true&bg_color=0D1117&title_color=a855f7&text_color=e2e8f0&border_radius=16&langs_count=6" height="170"/>
-
-</div>
 
 <div align="center">
 
