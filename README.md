@@ -211,4 +211,3 @@ const aaira = {
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,33:3a86ff,66:c77dff,100:ff006e&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 </div>
-
