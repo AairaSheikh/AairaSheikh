@@ -14,7 +14,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Full-Stack Developer** based in Pakistan with a passion for crafting clean, responsive web applications with polished UI and reliable APIs. I enjoy working across the entire stack — from designing intuitive frontends with React and TypeScript to building robust backends with FastAPI and Python.
+I'm a **Full-Stack Developer**  with a passion for crafting clean, responsive web applications with polished UI and reliable APIs. I enjoy working across the entire stack — from designing intuitive frontends with React and TypeScript to building robust backends with FastAPI and Python.
 
 - 🔭 Currently working on: **AI-powered & full-stack web projects**
 - 🌱 Always exploring: **new frameworks, system design, and AI integrations**
