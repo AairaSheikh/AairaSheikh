@@ -82,9 +82,7 @@ A deep-dive learning project into the frontier of **Physical AI** — where soft
 ![OpenAI](https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA_Isaac-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-<a href="https://github.com/AairaSheikh/physical-ai-humanoid-robotics">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AairaSheikh&repo=physical-ai-humanoid-robotics&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=facc15&text_color=e2e8f0&border_radius=12"/>
-</a>
+[![View Repo](https://img.shields.io/badge/View_Repo-a855f7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AairaSheikh/physical-ai-humanoid-robotics)
 
 </td>
 </tr>
@@ -115,9 +113,7 @@ A **developer wellbeing tool** that detects and analyzes burnout signals — bec
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<a href="https://github.com/AairaSheikh/Burnout-Analyzer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AairaSheikh&repo=Burnout-Analyzer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ec4899&icon_color=facc15&text_color=e2e8f0&border_radius=12"/>
-</a>
+[![View Repo](https://img.shields.io/badge/View_Repo-ec4899?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AairaSheikh/Burnout-Analyzer)
 
 </td>
 </tr>
@@ -148,9 +144,7 @@ A sleek, modern **developer portfolio website** showcasing projects, skills, and
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-<a href="https://github.com/AairaSheikh/MyPortfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AairaSheikh&repo=MyPortfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=facc15&text_color=e2e8f0&border_radius=12"/>
-</a>
+[![View Repo](https://img.shields.io/badge/View_Repo-f97316?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AairaSheikh/MyPortfolio)
 
 </td>
 </tr>
@@ -195,13 +189,15 @@ A sleek, modern **developer portfolio website** showcasing projects, skills, and
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AairaSheikh&hide_border=true&background=0D1117&stroke=a855f7&ring=ec4899&fire=f97316&currStreakLabel=facc15&sideLabels=a855f7&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681&border_radius=16" width="70%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AairaSheikh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=ec4899&text_color=e2e8f0&ring_color=f97316&border_radius=16&include_all_commits=true&count_private=true" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AairaSheikh&layout=compact&hide_border=true&bg_color=0D1117&title_color=a855f7&text_color=e2e8f0&border_radius=16&langs_count=6" height="170"/>
 
 </div>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AairaSheikh&bg_color=0d1117&color=a855f7&line=ec4899&point=facc15&area=true&area_color=a855f720&hide_border=true&radius=16&custom_title=Aaira's%20Contribution%20Timeline)
+<img src="https://streak-stats.demolab.com?user=AairaSheikh&hide_border=true&background=0D1117&stroke=a855f7&ring=ec4899&fire=f97316&currStreakLabel=facc15&sideLabels=a855f7&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681&border_radius=16" width="70%"/>
 
 </div>
 
@@ -225,6 +221,3 @@ A sleek, modern **developer portfolio website** showcasing projects, skills, and
 [![Followers](https://img.shields.io/github/followers/AairaSheikh?label=Followers&style=for-the-badge&color=ec4899&logo=github&logoColor=white)](https://github.com/AairaSheikh)
 
 </div>
-
-
-
