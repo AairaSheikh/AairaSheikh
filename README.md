@@ -18,9 +18,6 @@
 
 ---
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
 ## 🧬 &nbsp; Who Am I?
 
@@ -56,9 +53,6 @@ const aaira: Developer = {
 
 <br/>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
 ## 🚀 &nbsp; Featured Projects
 
@@ -164,9 +158,6 @@ A sleek, modern **developer portfolio website** showcasing projects, skills, and
 
 <br/>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
 ## 🛠️ &nbsp; Tech Arsenal
 
@@ -199,9 +190,6 @@ A sleek, modern **developer portfolio website** showcasing projects, skills, and
 
 <br/>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
 ## 📊 &nbsp; GitHub Stats
 
@@ -227,9 +215,6 @@ A sleek, modern **developer portfolio website** showcasing projects, skills, and
 
 <br/>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
 ## 💌 &nbsp; Let's Connect
 
@@ -254,4 +239,3 @@ A sleek, modern **developer portfolio website** showcasing projects, skills, and
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:facc15,25:f97316,50:ec4899,75:a855f7,100:6e40c9&height=140&section=footer&text=Thanks%20for%20stopping%20by!%20⭐&fontSize=26&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 </div>
-
