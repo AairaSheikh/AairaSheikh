@@ -21,35 +21,21 @@
 
 ## 🧬 &nbsp; Who Am I?
 
+Hey! I'm **Aaira Sheikh** — a passionate **Full-Stack Developer** who loves turning bold ideas into polished, production-ready products. I care deeply about clean architecture, beautiful UIs, and building software that genuinely makes a difference.
 
-```typescript
-const aaira: Developer = {
-  name:      "Aaira Sheikh",
-  title:     "Full-Stack Developer",
+I work across the full stack — crafting responsive frontends with **React & TypeScript**, and powering them with robust backends using **FastAPI & Python**. Beyond web development, I'm actively exploring the fascinating world of **Physical AI and Humanoid Robotics**, where intelligent software meets the real world.
 
-  loves:     ["Clean Architecture", "Polished UIs",
-              "AI Integrations", "Humanoid Robotics"],
+What drives me? The belief that great technology should feel effortless to use — and that the gap between humans and machines can always be made smaller with thoughtful design.
 
-  frontend:  ["React", "TypeScript", "Tailwind CSS",
-              "Vite", "JavaScript"],
+<br/>
 
-  backend:   ["Python", "FastAPI", "Django", "Node.js"],
-
-  exploring: ["Physical AI", "ROS 2", "LLMs",
-              "Humanoid Robot Design"],
-
-  building:  "Apps that actually matter 🚀",
-  motto:     "Ship it. Then make it extraordinary.",
-};
-```
-
-
-
-- 🔭 &nbsp; Currently building **AI-powered full-stack web applications**
-- 🤖 &nbsp; Diving deep into **Physical AI & Humanoid Robotics with ROS 2**
-- 🧠 &nbsp; Integrating **LLMs (GPT, Llama 3)** into real-world applications
-- 💡 &nbsp; Passionate about **developer wellbeing** and human-centric software
-- ✨ &nbsp; Believe that **great UX** is the bridge between tech and humans
+| | |
+|---|---|
+| 🔭 &nbsp; **Building** | AI-powered full-stack web applications |
+| 🤖 &nbsp; **Exploring** | Physical AI & Humanoid Robotics with ROS 2 |
+| 🧠 &nbsp; **Integrating** | LLMs like GPT & Llama 3 into real-world apps |
+| 💡 &nbsp; **Passionate about** | Developer wellbeing & human-centric software |
+| ✨ &nbsp; **Believe in** | Great UX as the bridge between tech and humans |
 
 <br/>
 
@@ -187,7 +173,13 @@ A sleek, modern **developer portfolio website** showcasing projects, skills, and
 
 ## 📊 &nbsp; GitHub Stats
 
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=AairaSheikh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=ec4899&text_color=e2e8f0&ring_color=f97316&border_radius=16&include_all_commits=true&count_private=true" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AairaSheikh&layout=compact&hide_border=true&bg_color=0D1117&title_color=a855f7&text_color=e2e8f0&border_radius=16&langs_count=6" height="170"/>
+
+</div>
 
 <div align="center">
 
@@ -214,4 +206,10 @@ A sleek, modern **developer portfolio website** showcasing projects, skills, and
 &nbsp;
 [![Followers](https://img.shields.io/github/followers/AairaSheikh?label=Followers&style=for-the-badge&color=ec4899&logo=github&logoColor=white)](https://github.com/AairaSheikh)
 
+</div>
+
+<br/><br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:facc15,25:f97316,50:ec4899,75:a855f7,100:6e40c9&height=140&section=footer&text=Thanks%20for%20stopping%20by!%20⭐&fontSize=26&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 </div>
