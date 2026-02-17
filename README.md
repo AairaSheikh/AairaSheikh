@@ -92,9 +92,6 @@ I'm always open to collaborating on interesting projects or just having a great 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
-
-*"First, solve the problem. Then, write the code."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AairaSheikh&color=58a6ff&style=flat-square&label=Profile+Views)
 
