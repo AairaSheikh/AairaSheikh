@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aaira%20Sheikh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaira-sheikh)
 [![Email](https://img.shields.io/badge/Email-aairasheikh66%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aairasheikh66@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-AairaSheikh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AairaSheikh)
-![Location](https://img.shields.io/badge/📍%20Pakistan-UTC+05:00-1f6feb?style=for-the-badge)
 
 </div>
 
@@ -60,14 +59,7 @@ I'm a **Full-Stack Developer** based in Pakistan with a passion for crafting cle
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AairaSheikh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AairaSheikh&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="165"/>
-
-</div>
 
 <div align="center">
 
