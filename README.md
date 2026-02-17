@@ -24,7 +24,6 @@
 
 ## 🧬 &nbsp; Who Am I?
 
-<img align="right" alt="Dev gif" width="360" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644f4f747668773567666d67566361327a4163756c776f537557704f4f6c6d38c3a9323063353737343839646136396336396234373532376634666266666536306464393864386432363165636261633431306638336466316663383965623130623434303164336434333765376234643935343437623866366335653364">
 
 ```typescript
 const aaira: Developer = {
@@ -47,7 +46,7 @@ const aaira: Developer = {
 };
 ```
 
-<br clear="right"/>
+
 
 - 🔭 &nbsp; Currently building **AI-powered full-stack web applications**
 - 🤖 &nbsp; Diving deep into **Physical AI & Humanoid Robotics with ROS 2**
@@ -236,15 +235,11 @@ A sleek, modern **developer portfolio website** showcasing projects, skills, and
 
 <div align="center">
 
-
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaira-sheikh)
 &nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aairasheikh66@gmail.com)
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="65%"/>
 
 <br/><br/>
 
@@ -255,3 +250,8 @@ A sleek, modern **developer portfolio website** showcasing projects, skills, and
 </div>
 
 <br/><br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:facc15,25:f97316,50:ec4899,75:a855f7,100:6e40c9&height=140&section=footer&text=Thanks%20for%20stopping%20by!%20⭐&fontSize=26&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+</div>
+
