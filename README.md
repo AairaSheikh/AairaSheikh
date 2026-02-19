@@ -183,8 +183,4 @@ A sleek, modern **developer portfolio website** showcasing projects, skills, and
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AairaSheikh&color=a855f7&style=for-the-badge&label=Profile+Visits)
-&nbsp;
-[![Followers](https://img.shields.io/github/followers/AairaSheikh?label=Followers&style=for-the-badge&color=ec4899&logo=github&logoColor=white)](https://github.com/AairaSheikh)
-
 </div>
