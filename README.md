@@ -171,16 +171,6 @@ A sleek, modern **developer portfolio website** showcasing projects, skills, and
 <br/>
 
 
-## 📊 &nbsp; GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AairaSheikh&hide_border=true&background=0D1117&stroke=a855f7&ring=ec4899&fire=f97316&currStreakLabel=facc15&sideLabels=a855f7&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681&border_radius=16" width="70%"/>
-
-</div>
-
-<br/>
-
 ## 💌 &nbsp; Let's Connect
 
 <div align="center">
